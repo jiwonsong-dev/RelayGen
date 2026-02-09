@@ -1,4 +1,4 @@
-### RelayGen: Intra-Generation Model Switching for Efficient Reasoning
+# RelayGen: Intra-Generation Model Switching for Efficient Reasoning
 
 <p align="middle">
     <a href="https://arxiv.org/abs/2602.06454"><img src="https://img.shields.io/badge/arXiv-2602.06454-b31b1b.svg" alt="arXiv"/></a>
