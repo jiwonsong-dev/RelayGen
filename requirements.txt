@@ -1,0 +1,16 @@
+word2number
+latex2sympy2
+vllm
+datasets
+fastapi
+uvicorn
+requests
+transformers
+torch
+pydantic
+openai
+tqdm
+absl-py
+langdetect
+immutabledict
+nltk
