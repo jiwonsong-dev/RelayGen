@@ -1,5 +1,7 @@
 # RelayGen: Intra-Generation Model Switching for Efficient Reasoning
 
+Official Implementation of "RelayGen: Intra-Generation Model Switching for Efficient Reasoning"
+
 <p align="middle">
     <a href="https://arxiv.org/abs/2602.06454"><img src="https://img.shields.io/badge/arXiv-2602.06454-b31b1b.svg" alt="arXiv"/></a>
 </p>
@@ -10,7 +12,6 @@
     <img src="assets/mechanism.png" alt="RelayGen mechanism" width="80%"/>
 </p>
 
-Official Implementation of "RelayGen: Intra-Generation Model Switching for Efficient Reasoning".
 **RelayGen** is a training-free, segment-level runtime model switching framework that exploits intra-generation difficulty variation to reduce inference latency while preserving most of the accuracy of large reasoning models.
 
 - Intra-generation switching between small and large reasoning models to reduce compute while preserving reasoning quality.
